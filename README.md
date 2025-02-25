@@ -28,6 +28,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Install tailwindcss via npm, and create your tailwind.config.js file.
 - npm install -D tailwindcss@3
 - npx tailwindcss init
+
 Add the @tailwind directives for each of Tailwind’s layers to your main CSS file.
 - @tailwind base;
 - @tailwind components;
